@@ -1,6 +1,6 @@
 ---
 title: "Cuando el género y la migración se cruzan: una mirada a la victimización en NNA´s"
-author: "Baeza, Muñoz, Pérez"
+author: "Baeza, Muñoz"
 format: html
 editor: visual
 bibliography: R-zotero.bib
